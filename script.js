@@ -37,5 +37,6 @@ const handleYesClick = ()=>{
     document.querySelector("h1").innerText = "උම්ම්ම්ම්ම්ම්ම්ම්ම්මා😘!!!"
     document.querySelector("img").src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
     document.querySelector(".button").style.display = "none"
+    document.getElementById("myAudio").play();
 
 }
